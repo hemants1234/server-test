@@ -1,12 +1,16 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "a test app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Hemant Sharma",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.7",
